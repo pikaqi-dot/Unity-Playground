@@ -1,7 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
-
-public class Enums
+﻿public class Enums
 {
 	public enum Players
 	{
